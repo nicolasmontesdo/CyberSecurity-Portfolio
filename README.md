@@ -6,7 +6,7 @@ Welcome! This repo showcases my **hands-on learning journey in cybersecurity**, 
 
 ## 👨‍💻 About Me
 - CS student passionate about cybersecurity  
-- Focused on hands-on labs, network scanning, Linux/Windows, and security monitoring  
+- Focused on hands-on labs, cloud security, network scanning, Linux/Windows, and security monitoring  
 - Tools & skills: Nmap, Wireshark, Metasploit, Splunk, Linux, Windows, Hashing, Enumeration, Networking  
 
 ---

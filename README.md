@@ -25,7 +25,10 @@ Welcome! This repo showcases my **hands-on learning journey in cybersecurity**, 
 - **Windows & Linux Exploitation** – Practiced privilege escalation and system enumeration  
 
 ### **3. Google Cybersecurity Professional Certificate Projects**
-- Notes, exercises, and mini-labs covering concepts like network security, incident response, and vulnerability assessment  
+- Notes, exercises, and mini-labs covering concepts like network security, incident response, and vulnerability assessment
+- [Security Audit & RIsk Assesment Project .pdf](https://github.com/user-attachments/files/26326478/Security.Audit.RIsk.Assesment.Project.pdf)
+- [Botium Toys Risk Assesment Report.pdf](https://github.com/user-attachments/files/26326491/Botium.Toys.Risk.Assesment.Report.pdf)
+
 
 ---
 

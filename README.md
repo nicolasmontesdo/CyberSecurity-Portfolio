@@ -27,8 +27,8 @@ Welcome! This repo showcases my **hands-on learning journey in cybersecurity**, 
 ### **3. Google Cybersecurity Professional Certificate Projects**
 - Notes, exercises, and mini-labs covering concepts like network security, incident response, and vulnerability assessment
 - https://github.com/nicolasmontesdo/CyberSecurity-Portfolio/blob/main/Security%20Audit%20%26%20RIsk%20Assesment%20Project%20.pdf
-- Completed a full security audit inlcuding assest identification, risk assesment, and mitigation recommendations.
-
+  Completed a full security audit inlcuding assest identification, risk assesment, and mitigation recommendations.
+- Report and Rubric for security audit - 
 
 
 ---

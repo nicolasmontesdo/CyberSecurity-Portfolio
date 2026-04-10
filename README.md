@@ -28,6 +28,8 @@ Welcome! This repo showcases my **hands-on learning journey in cybersecurity**, 
 - Notes, exercises, and mini-labs covering concepts like network security, incident response, and vulnerability assessment
 - https://github.com/nicolasmontesdo/CyberSecurity-Portfolio/blob/main/Security%20Audit%20%26%20RIsk%20Assesment%20Project%20.pdf
   Completed a full security audit inlcuding assest identification, risk assesment, and mitigation recommendations.
+-https://github.com/nicolasmontesdo/CyberSecurity-Portfolio/blob/main/Incident-report-Analysis.pdf
+ n this project, I acted as a Cybersecurity Analyst to analyze and document a real-world Denial of Service (DoS) incident involving an ICMP flood attack. I utilized the NIST Cybersecurity Framework (CSF) to evaluate the organization's security posture and develop a comprehensive mitigation strategy.
 
 
 ---

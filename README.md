@@ -46,9 +46,7 @@ Each folder contains screenshots of labs, commands, and outputs demonstrating my
 ---
 
 ## 📫 Contact / Connect
-- LinkedIn: [your-linkedin-profile]  
-- Email: [your-email]  
-- GitHub: [your-github-profile]  
+- LinkedIn: https://www.linkedin.com/in/nicolasmdo/
 
 ---
 
